@@ -1,0 +1,15 @@
+<script>
+ $(function(){
+  $('#udate').datepicker({
+    changeMonth:true,
+    changeYear:true,
+    Year Range:'1980-2002',
+   });
+  });
+</script>
+____________________________________
+--->>3 libraries added for calender
+____________________________________
+-----1-jquery.ui.css-1.12.1
+-----2-jquery.ui.js-1.12.1
+-----3-jquery-1.12.4.js
